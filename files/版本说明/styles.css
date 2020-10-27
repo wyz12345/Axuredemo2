@@ -2,8 +2,8 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-127px;
-  width:1800px;
+  left:-77px;
+  width:800px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -21,16 +21,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1800px;
-  height:2500px;
+  width:800px;
+  height:2000px;
 }
 #u0 {
   border-width:0px;
   position:absolute;
-  left:127px;
-  top:85px;
-  width:1800px;
-  height:2500px;
+  left:77px;
+  top:141px;
+  width:800px;
+  height:2000px;
   display:flex;
 }
 #u0 .text {
